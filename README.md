@@ -17,12 +17,6 @@
 git clone https://github.com/yourusername/myrepo.git
 ```
 
-## Քայլ 2
-
-Ավելացնել Repository-ն ձեր համակարգչում
-```bash
-git clone https://github.com/yourusername/myrepo.git
-```
 
 ## Քայլ 3
 
@@ -56,3 +50,4 @@ GitHub ուղարկելու համար օգտագործում ենք VS Code-ի 
   Եթե ցանկանում ենք Github ից ֆայլ ներբեռնել համակարգիչ ապա․
   
   git pull
+  
